@@ -1,0 +1,12 @@
+.btn-yours {
+  color: orange;
+  border: 4px dotted orange;
+  padding: 15px 15px;
+  font-weight: bold;
+  transition: 1s linear;
+}
+
+.btn-yours:hover {
+  color: #695737;
+  border: 4px solid #695737;
+}
